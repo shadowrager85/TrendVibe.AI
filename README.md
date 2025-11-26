@@ -1,12 +1,12 @@
-🚀 TrendVibe AI — The AI Engine for Viral Short-Form Content
+🚀 ClipPulse AI — The AI Engine for Viral Short-Form Content
 
 Predict trends. Generate viral scripts. Win attention.
 
-TrendVibe AI is a lightweight, fast, and AI-powered SaaS platform that helps creators, brands, and agencies discover emerging trends across TikTok, Reels, and YouTube Shorts — then automatically generates high-converting video scripts and content ideas tailored to their niche.
+ClipPulse AI is a lightweight, fast, and AI-powered SaaS platform that helps creators, brands, and agencies discover emerging trends across TikTok, Reels, and YouTube Shorts — then automatically generates high-converting video scripts and content ideas tailored to their niche.
 
-Built from the ground up by a solo developer, TrendVibe AI uses real-time public signals, trend velocity models, and LLM-powered creative generation to give users their next viral idea before it peaks.
+Built from the ground up by a solo developer,ClipPulse AI uses real-time public signals, trend velocity models, and LLM-powered creative generation to give users their next viral idea before it peaks.
 
-✨ Why TrendVibe Exists
+✨ Why ClipPulse AI Exists
 
 Creators, small businesses, and influencers face a massive problem right now:
 
@@ -20,7 +20,7 @@ Competition is intense
 
 Existing AI tools (Jasper, Copy.ai) are too broad and not built for shorts
 
-TrendVibe AI solves this by focusing only on short-form virality.
+ClipPulse AI solves this by focusing only on short-form virality.
 
 It acts like a trend radar + content strategist + scriptwriter — all in one lightweight system designed to run even on modest hardware.
 
@@ -51,7 +51,7 @@ SOM: $225M (5% penetration)
 
 Competition exists — but there is no dominant player focused purely on short-form virality.
 
-TrendVibe AI fills that gap.
+ClipPulse AI fills that gap.
 
 🔥 Core Features (MVP)
 ✅ 1. Viral Trend Discovery
@@ -116,9 +116,9 @@ build hype
 
 generate early customers
 
-🧠 How TrendVibe Gets Its Data (Safe + Legal)
+🧠 How ClipPulse  Gets Its Data (Safe + Legal)
 
-TrendVibe uses a hybrid trend sourcing model:
+ClipPulse  uses a hybrid trend sourcing model:
 
 1️⃣ Public Instagram Data (Legal Scraping)
 
@@ -174,7 +174,6 @@ Full-stack system designed for speed, safety, and scalability.
        → Back to Frontend (Trend Cards / Dashboard)
 
 
-(SVG/PNG provided in /docs/system-diagram.png)
 
 🧩 Tech Stack
 Frontend
@@ -215,17 +214,9 @@ Background queues
 
 Solo-Friendly Dev Setup
 
-Runs smoothly on:
-
-i5 8th gen
-
-16GB RAM
-
-200GB storage
-
 📈 Zero-Budget Growth Plan (GTM)
 
-TrendVibe grows using ONLY free channels.
+ClipPulse  grows using ONLY free channels.
 
 1. Creator-first content on TikTok & IG
 

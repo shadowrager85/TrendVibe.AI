@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 TrendVibe AI
+Copyright (c) 2025 ClipPlus AI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software UI and 
@@ -16,7 +16,7 @@ copies or substantial portions of the Software UI and Non-Core Components.
 PROPRIETARY COMPONENTS (NOT COVERED BY MIT LICENSE):
 
 The following parts of this repository are NOT open-source and remain the
-exclusive intellectual property of TrendVibe AI:
+exclusive intellectual property of ClipPlus AI:
 
 - AI trend prediction algorithms
 - Trend velocity scoring logic
@@ -28,7 +28,7 @@ exclusive intellectual property of TrendVibe AI:
 - Any file within /core-ai/, /scrapers/, or /prediction-engine/
 
 These components may NOT be used, reproduced, modified, or distributed
-without explicit written permission from TrendVibe AI.
+without explicit written permission from ClipPlus AI.
 
 THE SOFTWARE/UI IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 --------------------------------------------------------------------------------

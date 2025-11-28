@@ -1,13 +1,13 @@
-# Contributing to TrendVibe AI
+# Contributing to ClipPulse AI
 
 Thank you for your interest in contributing! TrendVibe AI welcomes developers,
-designers, and researchers who want to help build the future of AI-driven
+designers and researchers who want to help build the future of AI-driven
 content creation.
 
 ---
 
 ## 📌 Codebase Structure
-TrendVibe AI uses a hybrid architecture:
+ClipPulse AI uses a hybrid architecture:
 
 - **Next.js (frontend)**
 - **Node.js API Gateway**
@@ -80,4 +80,4 @@ Major discussions happen via:
 - GitHub Issues  
 - Discord server (coming soon)  
 
-Thanks again for helping build TrendVibe AI!
+Thanks again for helping build ClipPulse AI!
